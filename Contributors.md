@@ -116,6 +116,7 @@ rodrick
 - [Dhruv Patel](https://github.com/DhruvPatel280502): I'm very excited to contribute. 
 - [Sujatha G D](https://github.com/Sujatha03092004): Hello! Will start working on open source contributions
 - [Sarthak Veer](https://github.com/Sarthakveer11): Exploring Open-Source
+- [Elango Manikandan] (https://github.com/elangomanikandan)
 - [Chaitanya Mishra](https://github.com/chaitanya-mishra-ai): Contributing to open source, one PR at a time! 🚀
 -[Atharva Thakre](https://github.com/AtharvaThakre):My first open source contribution, definitely just the beginning of a great Adventure.
 -[Agampal Singh](https://github.com/agxmm01):My firs contribution to open source and learning.
@@ -144,7 +145,7 @@ rodrick
 - [Krishna-Raj](https://github.com/krishna-stone)
 - [Rahul-singh](https://github.com/Singh0622)
 - [Siddhesh-Gite] (https://github.com/Siddhesh200419)
-- [Elango Manikandan] (https://github.com/elangomanikandan)
+
 - Alex
  Sohail Shaikh
 - Seshadri Naidu
